@@ -75,7 +75,7 @@
     text-align: center;
 }
 .banner {
-    background-image: url('img/images.jpg');
+    background-image: url('../img/images.jpg');
     background-size: cover; 
     background-position: center; 
     display: flex;
