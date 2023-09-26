@@ -48,8 +48,8 @@
     color: red;
 }
 .content--picture__selfie{
-    width: 160px;
-    height: 160px;
+    width: 161px;
+    height: 161px;
     object-fit: cover;
     border: 4px solid red;
     border-radius: 50%;
